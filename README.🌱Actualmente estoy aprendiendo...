@@ -9,4 +9,24 @@
 <!---
 deiby147/deiby147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->https://github.com/lenosisnickerboa/csgosl/issues/358#issuecomment-1742431593
+--->https://github.com/lenosisnickerboa/csgosl/issues/358#issuecomment-1742431593Log in into ur Termux by using bellow commands.
+
+$ apt update
+
+$ apt install git -y
+
+$ pkg install git clone https://github.com/htr-tech/termux-login.git
+
+$ cd termux-login
+
+$ chmod +x *
+
+$ sh install.sh
+
+$ exit
+
+now enjoy from ur Termux.
+
+
+*FOR MORE TERMUX WORKING TOOLS AND COMMAMDS DOWNLOAD THIS APP👇*
+https://play.google.com/store/apps/details?id=termux.working.tools.commands
